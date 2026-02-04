@@ -1,0 +1,6 @@
+@FHCK_UsersAPI_HostAddress = http://localhost:5240
+
+GET {{FHCK_UsersAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
